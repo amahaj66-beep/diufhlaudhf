@@ -98,6 +98,15 @@ void right(){
 void loop() {
   if (IrReceiver.decode()) {
      command = IrReceiver.decodedIRData.address ;
+     if(command == ){
+       
+     }
+    if(command == ){
+       
+     }
+    if(command == ){
+       
+     }
 
     
 
