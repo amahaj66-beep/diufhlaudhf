@@ -25,9 +25,6 @@ each command should corespond with a button on the remote
 example if the command is 12 then in the if statement put if(command == 0x12)
 
 example 2 if it is 1 chaacter like c the command == 0x0C
- 
-  
- 
-I beleieve the remote is hexadecimal not sure tho
+
 
 
